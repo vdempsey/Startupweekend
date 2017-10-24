@@ -1,0 +1,43 @@
+.navigation-container {
+  width: 70%;
+  float: right;
+}
+
+.navigation {
+  text-align: center;
+}
+
+.search-bottom {
+  display: flex;
+  align-content: center;
+}
+
+.search-label {
+  float: left;
+  width: 40%;
+  align-self: center;
+  // margin-top: 20px;
+  // margin-bottom: 20px;
+  text-align: center;
+  vertical-align: middle;
+  // display: table;
+}
+
+.search-area {
+  float: left;
+  width: 60%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.bottom {
+  width: 70%;
+  // height: 60px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: $green;
+  border: 3px solid white;
+  border-radius: 10px;
+}

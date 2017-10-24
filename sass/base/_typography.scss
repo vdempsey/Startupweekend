@@ -1,0 +1,43 @@
+* {
+  font-family: sans-serif;
+}
+
+.header h1 {
+  font-size: 4em;
+  color: white;
+  text-align: center;
+  padding-bottom: 0.25em;
+  // clear: both;
+  // padding-top: 2.5em;
+}
+
+.content-one {
+  font-size: 1.5em;
+  color: white;
+  // margin-left: 2.5em;
+  // margin-right: 2.5em;
+}
+
+.content-two {
+  text-align: center;
+  font-size: 24px;
+}
+
+.search-bottom h3 {
+    color: white;
+    margin: auto;
+    vertical-align: middle;
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+}
+
+.bottom {
+  color: white;
+  font-size: 20px;
+}
+
+input::placeholder {
+  color: white;
+  padding-left: 10px;
+}
